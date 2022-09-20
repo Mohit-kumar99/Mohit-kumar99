@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Full Stack MERN Developer**
 
-- 📫 How to reach me **mohitpathour99531@gmail.com**
+- 📫 How to reach me **mohitkumar995318@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
